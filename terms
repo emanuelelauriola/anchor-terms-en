@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Terms of Service - Anchor</title>
+    <style>
+        body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; line-height: 1.6; color: #333; max-width: 800px; margin: 0 auto; padding: 20px; }
+        h1 { border-bottom: 2px solid #eaeaea; padding-bottom: 10px; }
+        h2 { margin-top: 30px; }
+    </style>
+</head>
+<body>
+    <h1>Terms of Service</h1>
+    <p>Last updated: October 13, 2026</p>
+    
+    <p>Welcome to Anchor. By using our application, you agree to the following terms and conditions of use.</p>
+
+    <h2>1. Use of the Application</h2>
+    <p>Anchor is an application dedicated to managing and scoring archery matches. The user is responsible for safeguarding the data entered on their device.</p>
+
+    <h2>2. Premium Features and Purchases</h2>
+    <p>The app offers advanced (Pro) features that can be unlocked via in-app purchases. Purchases are managed entirely by Apple's official systems (App Store) and are subject to their billing and refund terms.</p>
+
+    <h2>3. Intellectual Property</h2>
+    <p>All rights related to the source code, design, logos, and interface of Anchor are the exclusive property of the author.</p>
+
+    <h2>4. Limitation of Liability</h2>
+    <p>The application is provided "as is". The author is not responsible for any data loss due to device malfunction or accidental app uninstallation.</p>
+</body>
+</html>
