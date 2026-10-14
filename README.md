@@ -1,17 +1,17 @@
-# Termini di Servizio - Anchor
+# Terms of Service - Anchor
 
-Ultimo aggiornamento: 13 Ottobre 2026
+Last updated: October 13, 2026
 
-Benvenuto in Anchor. Utilizzando la nostra applicazione, accetti i seguenti termini e condizioni d'uso.
+Welcome to Anchor. By using our application, you agree to the following terms and conditions of use.
 
-## 1. Utilizzo dell'Applicazione
-Anchor è un'applicazione dedicata alla gestione e al punteggio delle gare di tiro con l'arco. L'utente è responsabile della custodia dei dati inseriti all'interno del proprio dispositivo.
+## 1. Use of the Application
+Anchor is an application dedicated to managing and scoring archery matches. The user is responsible for safeguarding the data entered on their device.
 
-## 2. Funzioni Premium e Acquisti
-L'app offre funzionalità avanzate (Pro) sbloccabili tramite acquisti integrati. Gli acquisti sono gestiti interamente dai sistemi ufficiali di Apple (App Store) e sono soggetti ai loro termini di fatturazione e rimborso.
+## 2. Premium Features and Purchases
+The app offers advanced (Pro) features that can be unlocked via in-app purchases. Purchases are managed entirely by Apple's official systems (App Store) and are subject to their billing and refund terms.
 
-## 3. Proprietà Intellettuale
-Tutti i diritti relativi al codice sorgente, al design, ai loghi e all'interfaccia di Anchor sono di proprietà esclusiva dell'autore.
+## 3. Intellectual Property
+All rights related to the source code, design, logos, and interface of Anchor are the exclusive property of the author.
 
-## 4. Limitazione di Responsabilità
-L'applicazione viene fornita "così com'è". L'autore non è responsabile per eventuali perdite di dati dovute a malfunzionamenti del dispositivo o cancellazione accidentale dell'app.
+## 4. Limitation of Liability
+The application is provided "as is". The author is not responsible for any data loss due to device malfunction or accidental app uninstallation.
